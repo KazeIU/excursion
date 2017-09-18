@@ -1,11 +1,10 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: verdana;
+  font-weight: normal;
 }
 
 h1 {
-  font-weight: normal;
   font-size: 50px;
 }
 
@@ -18,12 +17,12 @@ h3 a {
   font-size: 16px;
 }
 
-h3 {
-  font-size: 21px;
-}
-
 img {
   align-self: center;
+}
+
+.verdana {
+  font-family: verdana;
 }
 
 .aqua {
